@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">2048</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="score">Score: </string>
+    <string name="startGame">开始游戏</string>
+    <string name="str_HighScore">最高得分</string>
+    <string name="str_aboutGame">一键分享</string>
+    <string name="str_quit">退出游戏</string>
+    <string name="high_score">High Score: </string>
+    <string name="str_below_game_view">2048  作者 李昊阳</string>
+    <string name="restart">restart</string>
+    <string name="author">作者:</string>
+    <string name="author_name">李昊阳</string>
+    <string name="game">游戏:</string>
+    <string name="game_name">2048</string>
+    <string name="welcome_page_below_str">欢迎来到2048游戏！</string>
+    <string name="str_voice_recognize">Recognize</string>
+    <string name="voice_recognize_on">开启</string>
+    <string name="voice_recognize_off">关闭</string>
+    <string name="voice_recognize">语音控制:</string>
+    <string name="instruction">游戏2048:</string>
+    <string name="link">www.baidu.com</string>
+    <string name="str_wanfashuoming">玩法说明</string>
+
+</resources>
